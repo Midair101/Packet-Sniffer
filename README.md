@@ -65,12 +65,7 @@ The test suite includes synthetic packet tests to validate the detection heurist
 
 ---
 
-If you want, I can:
-- Add more robust detection rules (e.g., parse TLS handshakes and SNI) ✅
-- Add system notifications or a small GUI ✅
-- Provide a sample pcap and example workflows for testing ✅
 
-Tell me which next step you prefer.
 
 # Packet-Sniffer
  0edc8de4fc9ff12c90084fced49f515edcd0eee3
